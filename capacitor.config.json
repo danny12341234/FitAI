@@ -1,0 +1,11 @@
+{
+  "appId": "com.fitai.app",
+  "appName": "FitAI",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "ios": {
+    "contentInset": "always"
+  }
+}
