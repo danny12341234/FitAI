@@ -6,7 +6,7 @@ workflows:
     environment:
       ios_signing:
         distribution_type: app_store
-        bundle_identifier: danielm2143@hotmail.com
+        bundle_identifier: com.danielmurti.fitai
       vars:
         XCODE_WORKSPACE: "App/App.xcworkspace"
         XCODE_SCHEME: "App"
