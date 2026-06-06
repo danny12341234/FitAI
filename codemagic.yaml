@@ -5,8 +5,8 @@ workflows:
     max_build_duration: 60
     environment:
       ios_signing:
-        distribution_type: app.store
-        bundle_identifier: com.danielmurti.fitai
+        distribution_type:app_store
+        bundle_identifier:com.danielmurti.fitai
       vars:
         XCODE_WORKSPACE: "App/App.xcworkspace"
         XCODE_SCHEME: "App"
